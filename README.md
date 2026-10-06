@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HariPrasad-728/Leetcode/tree/master/0013-roman-to-integer) |
+| [1768-merge-strings-alternately](https://github.com/HariPrasad-728/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/HariPrasad-728/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
