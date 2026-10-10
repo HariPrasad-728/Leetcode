@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariPrasad-728/Leetcode/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/HariPrasad-728/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HariPrasad-728/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/HariPrasad-728/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/HariPrasad-728/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
