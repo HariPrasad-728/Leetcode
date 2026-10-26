@@ -14,6 +14,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/HariPrasad-728/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HariPrasad-728/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/HariPrasad-728/Leetcode/tree/master/0013-roman-to-integer) |
 | [1657-determine-if-two-strings-are-close](https://github.com/HariPrasad-728/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/HariPrasad-728/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/HariPrasad-728/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
