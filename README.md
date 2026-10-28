@@ -129,4 +129,13 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/HariPrasad-728/Leetcode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/HariPrasad-728/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HariPrasad-728/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HariPrasad-728/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
