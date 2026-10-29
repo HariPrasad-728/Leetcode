@@ -138,4 +138,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/HariPrasad-728/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/HariPrasad-728/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
