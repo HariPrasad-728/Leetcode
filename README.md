@@ -167,6 +167,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPrasad-728/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0841-keys-and-rooms](https://github.com/HariPrasad-728/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/HariPrasad-728/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -174,6 +175,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPrasad-728/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0841-keys-and-rooms](https://github.com/HariPrasad-728/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -189,4 +191,8 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/HariPrasad-728/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/HariPrasad-728/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
