@@ -160,6 +160,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPrasad-728/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPrasad-728/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/HariPrasad-728/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPrasad-728/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/HariPrasad-728/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HariPrasad-728/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/HariPrasad-728/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPrasad-728/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPrasad-728/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/HariPrasad-728/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -220,4 +223,12 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/HariPrasad-728/Leetcode/tree/master/0399-evaluate-division) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPrasad-728/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
