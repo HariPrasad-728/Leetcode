@@ -115,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HariPrasad-728/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPrasad-728/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -253,4 +254,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HariPrasad-728/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HariPrasad-728/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
