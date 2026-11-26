@@ -64,6 +64,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/HariPrasad-728/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HariPrasad-728/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariPrasad-728/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPrasad-728/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/HariPrasad-728/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HariPrasad-728/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -171,6 +172,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariPrasad-728/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/HariPrasad-728/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HariPrasad-728/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HariPrasad-728/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
